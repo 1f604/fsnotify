@@ -1,4 +1,4 @@
-module github.com/fsnotify/fsnotify
+module github.com/1f604/fsnotify
 
 go 1.13
 
